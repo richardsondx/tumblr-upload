@@ -16,7 +16,7 @@ Installation
 Install::
 
     git clone git://github.com/miohtama/tumblr-upload.git
-    cd tumbrl-upload
+    cd tumblr-upload
     virtualenv venv
     . venv/bin/activate
     easy_install oauth2 nltk poster IPTCInfo
